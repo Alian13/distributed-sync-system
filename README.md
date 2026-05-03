@@ -811,7 +811,7 @@ distributed-sync-system/
 
 Untuk melihat demonstrasi live sistem:
 
-- **YouTube Demo**: [Distributed Synchronization System Demo](https://youtu.be/example-link-demo)
+- **YouTube Demo**: [Distributed Synchronization System Demo]([https://youtu.be/example-link-demo](https://youtu.be/jTeSpZXRyvM))
 
 ---
 
