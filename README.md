@@ -221,7 +221,7 @@ git --version
 ### 5.2 Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/distributed-sync-system.git
+git clone https://github.com/Alian13/distributed-sync-system.git
 cd distributed-sync-system
 ```
 
@@ -811,7 +811,7 @@ distributed-sync-system/
 
 Untuk melihat demonstrasi live sistem:
 
-- **YouTube Demo**: [Distributed Synchronization System Demo]([https://youtu.be/example-link-demo](https://youtu.be/jTeSpZXRyvM))
+- **YouTube Demo**: [Distributed Synchronization System Demo](https://youtu.be/jTeSpZXRyvM)
 
 ---
 
