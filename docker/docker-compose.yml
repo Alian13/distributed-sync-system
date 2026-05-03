@@ -1,0 +1,35 @@
+version: '3'
+
+services:
+  node1:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.node
+    environment:
+      - NODE_ID=node1
+      - PORT=8001
+    ports:
+      - "8001:8001"
+
+  node2:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.node
+    environment:
+      - NODE_ID=node2
+      - PORT=8002
+    ports:
+      - "8002:8002"
+
+  node3:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.node
+    environment:
+      - NODE_ID=node3
+      - PORT=8003
+    ports:
+      - "8003:8003"
+
+  redis:
+    image: redis:latest
